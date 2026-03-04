@@ -1,0 +1,15 @@
+C:\Users\zxcho\Desktop\Работы\Оаип в работе\ShishkinIB_Laba7\obj\Debug\ShishkinIB_Laba7.csproj.AssemblyReference.cache
+C:\Users\zxcho\Desktop\Работы\Оаип в работе\ShishkinIB_Laba7\obj\Debug\MainWindow.baml
+C:\Users\zxcho\Desktop\Работы\Оаип в работе\ShishkinIB_Laba7\obj\Debug\MainWindow.g.cs
+C:\Users\zxcho\Desktop\Работы\Оаип в работе\ShishkinIB_Laba7\obj\Debug\App.g.cs
+C:\Users\zxcho\Desktop\Работы\Оаип в работе\ShishkinIB_Laba7\obj\Debug\ShishkinIB_Laba7_MarkupCompile.cache
+C:\Users\zxcho\Desktop\Работы\Оаип в работе\ShishkinIB_Laba7\obj\Debug\ShishkinIB_Laba7.g.resources
+C:\Users\zxcho\Desktop\Работы\Оаип в работе\ShishkinIB_Laba7\obj\Debug\ShishkinIB_Laba7.Properties.Resources.resources
+C:\Users\zxcho\Desktop\Работы\Оаип в работе\ShishkinIB_Laba7\obj\Debug\ShishkinIB_Laba7.csproj.GenerateResource.cache
+C:\Users\zxcho\Desktop\Работы\Оаип в работе\ShishkinIB_Laba7\obj\Debug\ShishkinIB_Laba7.csproj.CoreCompileInputs.cache
+C:\Users\zxcho\Desktop\Работы\Оаип в работе\ShishkinIB_Laba7\bin\Debug\ShishkinIB_Laba7.exe.config
+C:\Users\zxcho\Desktop\Работы\Оаип в работе\ShishkinIB_Laba7\bin\Debug\ShishkinIB_Laba7.exe
+C:\Users\zxcho\Desktop\Работы\Оаип в работе\ShishkinIB_Laba7\bin\Debug\ShishkinIB_Laba7.pdb
+C:\Users\zxcho\Desktop\Работы\Оаип в работе\ShishkinIB_Laba7\obj\Debug\ShishkinIB_Laba7.exe
+C:\Users\zxcho\Desktop\Работы\Оаип в работе\ShishkinIB_Laba7\obj\Debug\ShishkinIB_Laba7.pdb
+C:\Users\zxcho\Desktop\Работы\Оаип в работе\ShishkinIB_Laba7\obj\Debug\ShishkinIB_Laba7.exe.config
